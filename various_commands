@@ -1,0 +1,2 @@
+# converts a fastq file to a nodegraph
+/usr/bin/time khmer/scripts/load-graph.py test ~/data/reads3.fa.gz -M 100000000

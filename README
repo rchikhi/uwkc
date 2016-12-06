@@ -1,0 +1,4 @@
+git submodule init
+git submodule update
+cd khmer && make && python setup.py install --user && cd -
+
